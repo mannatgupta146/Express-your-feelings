@@ -16,7 +16,7 @@ This project showcases a creative approach to expressing emotions through visual
 ## Screenshots
 ![Screenshot of Express Your Feelings](image.png)
 
-This screenshot provides a quick visual overview of how the "Express Your Feelings" animation appears in a browser. Feel free to replace it with a more relevant or updated screenshot based on your setup.
+This screenshot provides a quick visual overview of how the "Express Your Feelings" animation appears in a browser.
 
 
 ## Benefits
@@ -31,16 +31,18 @@ This screenshot provides a quick visual overview of how the "Express Your Feelin
 - **User Interaction**: Add interactive elements, like buttons or mouse hover effects, to enhance user engagement.
 - **Performance Optimization**: Optimize animation speed and grid rendering for improved performance on lower-end devices.
 
----
-## Contributions
-Contributions to this project are welcome! If you have any ideas for enhancements or bug fixes, feel free to fork the repository, make changes, and submit a pull request. Your contributions will be reviewed, and if approved, they will be merged into the main project.
-
 ### How to Contribute
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-branch-name`.
 3. Make your changes and commit: `git commit -m "Add your feature description"`.
 4. Push your changes: `git push origin feature-branch-name`.
 5. Submit a pull request.
+   
+---
+## Contributions
+Contributions to this project are welcome! If you have any ideas for enhancements or bug fixes, feel free to fork the repository, make changes, and submit a pull request. Your contributions will be reviewed, and if approved, they will be merged into the main project.
+
+
 
 
 
